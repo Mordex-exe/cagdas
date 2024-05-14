@@ -1,0 +1,26 @@
+{
+  "token": "",
+  "username": "more",
+  "password": "more130709",
+  "port": "3000",
+  "clientId": "1239927322434601082",
+  "guildId": "1239935967784075344",
+  "globalDeploy": false,
+  "status": "Made By Bedava Hediyeler 🔥",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By Bedava Hediyeler 🔥",
+  "genChannel": "1239935967784075344",
+  "premiumChannel": "1239978292434567280",
+  "genCooldown": "3600",
+  "premiumCooldown": "1800",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
